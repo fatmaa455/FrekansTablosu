@@ -1,0 +1,2 @@
+# FrekansTablosu
+Frekans Tablosu Oluşturma
